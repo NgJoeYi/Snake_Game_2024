@@ -1,27 +1,28 @@
 # Snake Game (Android Kotlin)
 
-This is a classic Snake game developed for Android using Kotlin programming language. Snake is a popular arcade game where players control a snake that grows in length as it consumes food. The objective is to navigate the snake to eat as much food as possible without colliding with the walls or its own body.
+This is a modern take on the classic Snake game, crafted for Android using the Kotlin programming language. In this iconic arcade game, you guide a snake that grows longer as it consumes food. The aim is to collect as much food as possible while avoiding collisions with the walls or the snake’s own body.
 
-## Gameplay
+## UI :)
 
-![snake](https://github.com/d-lehel/snake-android-game/assets/75861915/c0d493f9-4e52-42d7-bff3-bfd3c1f9ed25)
+![image](https://github.com/user-attachments/assets/40b5efa0-c03e-4ee1-b8dd-ab25bbc6e2ac)
 
-Check out the gameplay in action! The GIF above showcases gameplay of the Snake game on Android. 
+This is a simple UI I created for a Snake game, inspired by the version I remember playing on a classic Nokia phone. The game is developed for Android using the Kotlin programming language, bringing back the nostalgic feel of guiding a snake to collect food while avoiding collisions.
 
 ## Features
 
 - Classic Snake mechanics.
-- Touch-based controls.
-- Various levels of difficulty.
+- Simple, intuitive touch controls
 
 ## Technologies Used
 
-- Android SDK: The game is built using Android SDK, which provides the necessary tools and libraries for Android app development.
-- Kotlin: The game logic and user interface are implemented using Kotlin, a modern programming language for Android development.
-- Android Studio: The project is developed and managed in Android Studio, a powerful integrated development environment (IDE) for Android app development.
+- Android SDK: Provides the framework and tools for building Android apps
+- Kotlin: The game logic and interface are programmed in Kotlin for efficient performance
+- Android Studio: Developed using Android Studio, the official IDE for Android development
 
 ## How to Play
 
-Download the game from the following link and install it on your Android device:
-- https://github.com/d-lehel/snake-android-game/blob/main/snake_built.apk
-Have fun!
+- Control the snake using the on-screen directional buttons.
+- Eat the food (usually a dot or square) to make the snake grow longer.
+- Avoid hitting the walls or running into your own tail.
+- The game gets faster and more challenging as your snake grows.
+- Try to achieve the highest score by collecting as much food as possible!
