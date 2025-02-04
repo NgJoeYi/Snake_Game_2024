@@ -4,7 +4,7 @@ This is a modern take on the classic Snake game, crafted for Android using the K
 
 ## UI :)
 
-![image](https://github.com/user-attachments/assets/40b5efa0-c03e-4ee1-b8dd-ab25bbc6e2ac)
+<img src="https://github.com/user-attachments/assets/40b5efa0-c03e-4ee1-b8dd-ab25bbc6e2ac" width="300"/>
 
 This is a simple UI I created for a Snake game, inspired by the version I remember playing on a classic Nokia phone. The game is developed for Android using the Kotlin programming language, bringing back the nostalgic feel of guiding a snake to collect food while avoiding collisions.
 
